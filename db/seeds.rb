@@ -6,7 +6,3 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-
-Customer.create(name: 'Brothers Const ENT Inc', sales: 0 )
-Customer.create(name: 'Cedar River Construction', sales: 1200 )
-Customer.create(name: 'Aesthetic Elements', sales: 1000)
